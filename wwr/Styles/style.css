@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Quintessential&family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Fira+Sans:wght@100&family=Playfair+Display&family=Quintessential&family=Supermercado+One&family=Titillium+Web:wght@200&display=swap');
 #content{
     max-width: 1600px;
     margin: 0 auto; 
@@ -27,14 +27,14 @@ main section{
 }
 body {
     background-color: #2a9d8f; 
-    font-family: Quintessential;
+    font-family: Quintessential, Andada Pro, Titillium Web;
     font-size: 22px;
     margin: 0;
     padding: 0;
 }
 header {
     background-color: #1e81b0;
-    font-family: Fira Sans;
+    font-family: Fira Sans, Andada Pro, Playfair Display;
 }
 nav a:hover {
     background-color: #f4a261;
@@ -82,7 +82,7 @@ footer{
 }
 .home-title{
     color:chocolate;
-    font-family: Supermercado One;
+    font-family: Supermercado One, Playfair Display, ;
     font-size: 2em;
     margin-top: 10px;
 }
